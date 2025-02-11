@@ -7,6 +7,8 @@
 
 - 💬 Ask me about **React**
 
+- 📫 How to reach me **snehanemalipuri52@gmail.com**
+
 - ⚡ Fun fact **I'm a night owl**
 
 <h3 align="left">Connect with me:</h3>
